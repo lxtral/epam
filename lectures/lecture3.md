@@ -1,5 +1,5 @@
 ## Managing Users And Groups
-
+ 
 ### Users
 
 `useradd` - create users  
