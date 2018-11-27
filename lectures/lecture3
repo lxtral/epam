@@ -26,7 +26,8 @@
 
 `echo $HOME`  
 `echo $PATH`  
-
+  
+  
 ## Controlling Access To Files With Linux File System Permissions
 
 Права делятся на 3 группы и записываются по порядку  
